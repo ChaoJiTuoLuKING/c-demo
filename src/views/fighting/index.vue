@@ -6,5 +6,5 @@ defineOptions({
 </script>
 
 <template>
-  <h1>加油</h1>
+  <h1>加油123</h1>
 </template>
