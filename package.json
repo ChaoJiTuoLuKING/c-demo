@@ -122,6 +122,7 @@
     "svgo": "^3.3.2",
     "tailwindcss": "^3.4.16",
     "typescript": "5.6.3",
+    "unplugin-vue-define-options": "3.0.0-beta.8",
     "vite": "^6.0.3",
     "vite-plugin-cdn-import": "^1.0.1",
     "vite-plugin-compression": "^0.5.1",
